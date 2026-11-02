@@ -1,4 +1,5 @@
-Tomáš smrdíííííííííííííí
+Tomas smrdiiiiiiiiiiiiiii
+<<<<<<< Updated upstream
 
 Martin je kokot
 
@@ -8,3 +9,12 @@ Dan je fetak
 -miky
 
 Martin je kokot
+=======
+<<<<<<< HEAD
+Miky je pica
+-martin
+=======
+
+Martin je kokot
+>>>>>>> 15e871bad7928d5014b1258e6a367d450283f9b8
+>>>>>>> Stashed changes
